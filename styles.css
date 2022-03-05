@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  margin: 0;
+  height: 100vh;
+}
+
+header {
+  height: 20vh;
+  padding-top: 10px;
+}
+
+.name {
+  color: coral;
+  font-weight: bolder;
+  font-size: 4em;
+}
+
+.description {
+  color: white;
+}
+
+.content {
+  min-height: 75vh;
+}
+
+
+.sidebar {
+  background-color: rgb(133, 172, 55);
+}
+
+.sidebar a {
+  color: white;
+}
+
+.main-content {
+  padding: 3%;
+  background-color: white;
+}
+
+.welcome {
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
